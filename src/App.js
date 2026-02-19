@@ -1,13 +1,7 @@
 import React from 'react';
 import './App.css';
-import Router3 from './router3';
-
-// function App() {
-//   return (
-//     <Router2/>
-//   )
-// }
+import FormText from './form-text';
 
 export default function App(){
-  return <Router3/>
+  return <FormText/>
 }
